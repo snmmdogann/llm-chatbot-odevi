@@ -1,0 +1,2 @@
+openai==3.55.1         # OpenRouter'a istek gönderme (OpenAI uyumlu)
+python-dotenv==1.2.4   # .env dosyasından API anahtarını okuma

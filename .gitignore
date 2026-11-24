@@ -1,0 +1,11 @@
+# API anahtarı
+.env
+
+# Python önbelleği
+__pycache__/
+
+# Sanal ortam
+.venv/
+
+# Editör ayarları
+.vscode/
